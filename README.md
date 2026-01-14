@@ -54,11 +54,11 @@ By completing these tutorials, you will:
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions for improvements, additional tutorials, or corrections, please feel free to open an issue or submit a pull request.
+Contributions are welcome! If you have suggestions for improvements, additional tutorials, or corrections, please see our [Contributing Guidelines](CONTRIBUTING.md) or open an issue or submit a pull request.
 
 ## License
 
-This educational resource is provided for academic and educational use.
+This educational resource is provided for academic and educational use. See [LICENSE.md](LICENSE.md) for details.
 
 ## About
 
