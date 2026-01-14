@@ -1,0 +1,146 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Via Appia",
+        "type": "Major Road",
+        "built_year": -312,
+        "description": "The Queen of Roads - connecting Rome to Brundisium"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [12.4964, 41.9028],
+          [12.8245, 41.4474],
+          [14.0234, 41.1171],
+          [15.5520, 40.6320],
+          [17.9407, 40.6384]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Via Flaminia",
+        "type": "Major Road",
+        "built_year": -220,
+        "description": "Connected Rome to Ariminum on the Adriatic coast"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [12.4964, 41.9028],
+          [12.3115, 42.4141],
+          [12.5673, 43.1107],
+          [12.3682, 43.8563],
+          [12.5681, 44.0678]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Via Aurelia",
+        "type": "Major Road",
+        "built_year": -241,
+        "description": "Coastal route from Rome to Gaul"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [12.4964, 41.9028],
+          [11.8770, 42.4289],
+          [10.9233, 43.0951],
+          [10.3160, 43.5502],
+          [9.1900, 44.4056],
+          [8.2605, 44.1147],
+          [7.6869, 43.7384],
+          [5.3698, 43.2965]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Via Aemilia",
+        "type": "Major Road",
+        "built_year": -187,
+        "description": "Connected Ariminum to Placentia across northern Italy"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [12.5681, 44.0678],
+          [12.2035, 44.4184],
+          [11.8766, 44.4949],
+          [11.3426, 44.4949],
+          [10.9252, 44.6989],
+          [10.0157, 44.8015],
+          [9.6934, 44.9228],
+          [9.5233, 45.0535]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Via Egnatia",
+        "type": "Major Road",
+        "built_year": -146,
+        "description": "Major route through the Balkans from Dyrrhachium to Byzantium"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [19.4914, 41.3275],
+          [20.7889, 40.7696],
+          [22.8787, 40.6315],
+          [24.8883, 40.8401],
+          [26.2514, 40.4706],
+          [28.9784, 41.0082]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Via Domitia",
+        "type": "Major Road",
+        "built_year": -118,
+        "description": "First Roman road in Gaul, connecting Italy to Spain"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [5.3698, 43.2965],
+          [4.6357, 43.6762],
+          [3.8767, 43.6108],
+          [3.0000, 43.1833],
+          [2.3522, 42.6954],
+          [1.4430, 42.5085]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Via Augusta",
+        "type": "Major Road",
+        "built_year": -8,
+        "description": "Main route through Hispania along the Mediterranean coast"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [1.4430, 42.5085],
+          [0.9035, 41.1189],
+          [-0.9833, 37.6000],
+          [-3.6000, 37.1773],
+          [-5.9845, 37.3886]
+        ]
+      }
+    }
+  ]
+}

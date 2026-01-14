@@ -16,6 +16,10 @@ This repository provides hands-on tutorials and resources for historians, archae
 6. [Spatial Analysis for Historical Research](./tutorials/06-spatial-analysis.md)
 7. [Data Sources and Resources](./tutorials/07-data-sources.md)
 
+## Practice Materials
+
+- [Example Data and Projects](./examples/) - Sample datasets and guided projects to practice your skills
+
 ## Key Resources Covered
 
 - **Digital Atlas of Roman and Medieval Civilization (DARMC)**: Explore Roman and medieval geography with comprehensive spatial datasets
